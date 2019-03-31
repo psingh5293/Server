@@ -12,7 +12,6 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
-    "cors": "^2.8.5",
     "express": "^4.16.4",
     "jwt-simple": "^0.5.5",
     "mongoose": "^5.4.5",
@@ -20,7 +19,6 @@
     "nodemon": "^1.18.9",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "passport-local": "^1.0.0",
-    "prettier": "^1.16.4"
+    "passport-local": "^1.0.0"
   }
 }
